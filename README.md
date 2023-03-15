@@ -27,4 +27,4 @@ For the preparation of the environment and the correct execution of the tests it
 
 After having the Cypress environment installed and configured correctly:
 
-Please consult the document **"More details.pdf"**.
+Please consult the document **"More_details.pdf"**.
